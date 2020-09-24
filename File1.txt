@@ -15,3 +15,5 @@ Change 3: To fix bug1, to check fast forward merge
 Fix bug 2 to check 3-way merging
 
 Change
+
+Change made on GitHub for test Pull on remote repository.
