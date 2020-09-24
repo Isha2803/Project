@@ -4,6 +4,9 @@ Change 1 :
 
 Change 2 :
 
-: To fix bug1, to check fast forward merge
 
-Change by teammate...to test 3-way merge
+Change 3: To fix bug1, to check fast forward merge
+
+
+Fix bug 2 to check 3-way merging
+
